@@ -4,7 +4,7 @@
     <p align="center">
 		<b><a href="https://cg.cs.uni-bonn.de/person/m-sc-julian-kaltheuner">Julian Kaltheuner</a><sup>1</sup></b>
         &nbsp;·&nbsp;
-		<b><a href="https://cg.cs.uni-bonn.de/person/dr-sc-patrick-stotko">Patrick Stotko</a><sup>1</sup></b>
+		<b><a href="https://cg.cs.uni-bonn.de/person/dr-patrick-stotko">Patrick Stotko</a><sup>1</sup></b>
         &nbsp;·&nbsp;
         <b><a href="https://cg.cs.uni-bonn.de/person/prof-dr-reinhard-klein">Reinhard Klein</a><sup>1</sup></b>
     </p>
@@ -48,10 +48,4 @@ If you use the code for your own research, please cite our work as
 
 ## Acknowledgements
 
-This research has been funded by the Federal Ministry
-of Education and Research under grant no. 01IS22094A
-WEST-AI, by the Federal Ministry of Education and Re-
-search of Germany as well as the state of North-Rhine West-
-phalia as part of the Lamarr-Institute for Machine Learn-
-ing and Artificial Intelligence, INVIRTUO under grant no.
-PB22-063A and by the DFG project KL 1142/11-2.
+This research has been funded by the Federal Ministry of Education and Research under grant no. 01IS22094A WEST-AI, by the Federal Ministry of Education and Research of Germany as well as the state of North-Rhine Westphalia as part of the Lamarr-Institute for Machine Learning and Artificial Intelligence, INVIRTUO under grant no. PB22-063A and by the DFG project KL 1142/11-2.
